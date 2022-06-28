@@ -1,0 +1,24 @@
+Vehicle Detection - Python
+Using a convulutionary neural network to tell the difference between cars and trucks with a dataset given.
+
+Walking Robot - Arduino
+Mimicking a human gait cycle with motors for the hip and knee joints through arduino.
+
+Stock Prediction - Python
+Using Machine Learning concepts to edit and add to code that predicts stock through yahoo finance.
+
+Fibonacci - Python 
+Simple code to finding the Fibonacci sequence.
+
+Shortest Path - Python
+Finding the shortest path through BFS and DFS the way maps would work. 
+
+Graph Builder - Python 
+Helps to build a graph.
+
+Sierpinski - Python 
+Building the Sierpinksi Triangle through Tkinter 
+
+Websites 
+prefixbodyfuel.com
+asepticclothing.com
